@@ -112,6 +112,7 @@ RESPONSIVE
 
   .row {
     width: 100%;
+    margin-top: 0;
     padding: 30px 18px;
   }
 
